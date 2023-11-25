@@ -1,0 +1,64 @@
+#bar {
+  background: var(--bs-gray-800);
+}
+
+#bar:hover {
+  background: var(--bs-gray-300);
+}
+
+#pant {
+  background: var(--bs-dark);
+}
+
+#carta {
+  background: black;
+}
+
+#nose {
+  background: #000000;
+}
+
+#casi {
+  background: grey;
+}
+
+#casi:hover {
+  background: var(--bs-gray-100);
+}
+
+.fa.fa-gamepad.icono {
+  align-items: end;
+}
+
+#SHI {
+  color: white;
+}
+
+#cola:hover {
+  filter: brightness(2);
+}
+
+#botoncin {
+  background: #808080;
+}
+
+#botoncin:hover {
+  background: #000000;
+}
+
+#mine {
+  background: saddlebrown;
+}
+
+#mine:hover {
+  background: #000000;
+}
+
+#spider {
+  background: darkred;
+}
+
+#spider:hover {
+  background: darkblue;
+}
+
